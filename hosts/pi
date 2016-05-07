@@ -1,0 +1,12 @@
+Address = matiwinnetou.no-ip.org
+Port = 655
+Subnet = 192.168.100.1/32
+
+-----BEGIN RSA PUBLIC KEY-----
+MIIBCgKCAQEA9s60Zj92OxODcE2nWNu2V8/6QMNI2FKjswi6YrsKSHJTbbxPzzJA
+MR34O5njIY66eTxRKjf3KjCU1KzZsqR9FV7cZB5W/VLj24a1/0fA6GfP3fDW8Mlt
+qgupkc8pt0amRo/U4yz/x+fMqzT6V9yyx1ITmVEr6ZoRNGPq1HFieb87Wx/o0k91
+5tIFX/PXTd5h0Vmf/4sZrfzfrrbGm8tDYA2p36jc78dR+wm87qvmNtkOdMTYmFL5
+QGuDoQ3YMwXYavunMoImoXvCtZ/v8lvqkJebVvIeEZKPR1azBxtlrD7QXG2QUWS1
+HtoMqdx/duRuSfYZbjqZhcGrqiL4H4sYPwIDAQAB
+-----END RSA PUBLIC KEY-----

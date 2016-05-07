@@ -1,0 +1,11 @@
+Port = 655
+Subnet = 192.168.100.2/32
+
+-----BEGIN RSA PUBLIC KEY-----
+MIIBCgKCAQEA1ypxIgFeqav1vF/+Rv/KLUPyfCZedPj4sPMiFIe11emYYK+IwZmQ
+cmm5NufDpjbu45sXdPALZ5b9KEqzVzOvp4ftthDT9uLaFi3TXHs6xly0HmerprkN
+1aeBoV/+jSEE3TTrN98a5993XQtUpEo/sptwZN3zp/dxZ5hBeFzoL9IcDfVptPJW
+k+uw9yIkPFzUlYpdmGYUx1B2KSaLPLnybONuumsNobh7xV0ZGN5J4a4RizfPKwRr
+vFbdqEgtkPixC+VAK9oK/Qon9lBIPSwNeJSfQQsp3pqIm0iTLtDCyxaE3ByZjcGu
+MKsouvNZyaHZKxlU3jGgPWr9gHfhpOHCPwIDAQAB
+-----END RSA PUBLIC KEY-----
