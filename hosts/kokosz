@@ -1,4 +1,4 @@
-Address = matiwinnetou.no-ip.org
+Address = matiwinnetou.nerdpol.ovh 
 Port = 655
 Subnet = 192.168.100.1/32
 
