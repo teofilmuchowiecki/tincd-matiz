@@ -9,7 +9,7 @@ function osx {
 function linux {
 	echo Running for linux
 	mkdir -p /etc/tinc/matiz/hosts
-	cp hosts/* /etc/tinc/matiz
+	cp hosts/* /etc/tinc/matiz/hosts
 }
 
 unamestr=`uname`
