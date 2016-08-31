@@ -2,8 +2,8 @@
 
 function osx {
 	echo Running for osx
-	mkdir -p /usr/local/etc/tinc/matiz/hosts
-	cp hosts/* /usr/local/etc/tinc/matiz/hosts
+	mkdir -p /opt/local/etc/tinc/matiz/hosts
+	cp hosts/* /opt/local/etc/tinc/matiz/hosts
 }
 
 function linux {
