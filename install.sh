@@ -20,9 +20,7 @@ elif [[ "$unamestr" == 'Darwin' ]]; then
 fi
 
 if [ "$platform" == 'osx' ]; then
-			osx
-            else
-            linux
+  osx
+else
+  linux
 fi
-
-#cp hosts/* /etc/tincd/matiz
