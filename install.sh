@@ -2,14 +2,14 @@
 
 function osx {
 	echo Running for osx
-	rm -rf /usr/local/etc/tinc/matiz/hosts	
+	rm -rf /usr/local/etc/tinc/matiz/hosts
 	mkdir -p /usr/local/etc/tinc/matiz/hosts
 	cp hosts/* /usr/local/etc/tinc/matiz/hosts
 }
 
 function linux {
 	echo Running for linux
-	rm -rf /usr/local/etc/tinc/matiz/hosts
+	rm -rf /etc/tinc/matiz/hosts
 	mkdir -p /etc/tinc/matiz/hosts
 	cp hosts/* /etc/tinc/matiz/hosts
 }
